@@ -1,0 +1,75 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  height: 300px;
+  gap: 300px;
+}
+.head {
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 143.023%;
+  width: 374px;
+  height: 154px;
+}
+
+.parent1 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+.image1 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+.image2 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  display: flex;
+
+  padding: 6.413px 11.223px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.parent2 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+.image3 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.image4 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  height: 500px;
+  gap: 20px;
+}
+.Clienthead {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  height: 500px;
+  gap: 20px;
+}

@@ -1,0 +1,40 @@
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  height: 500px;
+  gap: 100px;
+}
+.left {
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 161.523%;
+  padding-left: 80px;
+}
+.right {
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  text-align: start;
+}
+.right1 {
+  color: var(--Pure-White, #fff);
+  text-align: start;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 162.523%;
+}
+.right2 {
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 162.523%;
+  opacity: 0.3;
+}

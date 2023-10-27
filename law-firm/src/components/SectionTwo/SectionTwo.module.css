@@ -1,0 +1,17 @@
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  height: 500px;
+  gap: 20px;
+}
+.header {
+  text-align: center;
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 143.023%;
+}

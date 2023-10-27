@@ -1,0 +1,54 @@
+.head {
+  width: 359px;
+  height: 377px;
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  flex-shrink: 0;
+  background: #1d1d1d;
+}
+
+.header {
+  text-align: center;
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 143.023%;
+}
+.parent {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.circle {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  fill: var(--Pure-White, #fff);
+  stroke-width: 1.4px;
+  stroke: rgba(25, 25, 25, 0.1);
+  flex-shrink: 0;
+}
+
+.gift {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.body2 {
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 162.523%;
+  opacity: 0.3;
+}
+.small {
+  width: 121px;
+  height: 43px;
+  flex-shrink: 0;
+  border-radius: 23.5px;
+  background: #e3b748;
+}

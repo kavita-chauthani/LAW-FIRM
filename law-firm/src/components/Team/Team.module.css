@@ -1,0 +1,62 @@
+.head {
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 143.023%;
+  text-align: center;
+  height: 100px;
+}
+.parent1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  height: 100px;
+  gap: 100px;
+}
+.child1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  height: 500px;
+  gap: 20px;
+}
+.name {
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+}
+.case {
+  color: var(--Pure-White, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  opacity: 0.3;
+}
+.child2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  height: 109px;
+  gap: 20px;
+  border-radius: 14px;
+  background: #e3b748;
+  width: 344px;
+}
+.parent2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  height: 100px;
+  gap: 200px;
+}
