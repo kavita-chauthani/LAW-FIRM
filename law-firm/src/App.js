@@ -10,6 +10,7 @@ import Client from "./components/Client/Client";
 import Team from "./components/Team/Team";
 import Faq from "./components/Faq/Faq";
 import Subscribe from "./components/Subscribe/Subscribe";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Team />
       <Faq />
       <Subscribe />
+      <Footer />
     </div>
   );
 }
